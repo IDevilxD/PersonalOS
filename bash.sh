@@ -1,3 +1,5 @@
+!bin/usr/bash
+
 echo "H. E. L. L. O"
 
 sleep 1
