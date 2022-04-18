@@ -1,4 +1,4 @@
-!bin/usr/bash
+!/bin/usr/bash
 
 echo "H. E. L. L. O"
 
