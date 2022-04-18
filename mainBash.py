@@ -1,1 +1,1 @@
-from .VARS import vars
+from VARS import vars
