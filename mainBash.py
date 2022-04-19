@@ -1,3 +1,4 @@
+import os
 from VARS.vars import copyright
 from RESOURCES import function
 
