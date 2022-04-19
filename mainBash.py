@@ -31,7 +31,7 @@ while running:
         com1 = "/storage/emulated/0"
       if com2 == "":
         com2 = "192.168.225.229"
-      if com3 = "":
+      if com3 == "":
         com3 = "1527"
       function.ssOP(com1,com2,com3)
     except:
