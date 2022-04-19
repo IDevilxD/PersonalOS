@@ -1,3 +1,3 @@
 import os
 
-os.system("bash PersonalOS/PersonalOS.sh")
+os.system("bash PersonalOS/bash.sh")
