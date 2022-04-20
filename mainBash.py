@@ -20,7 +20,6 @@ while running:
     com4 = UIIs[4]
     com5 = UIIs[5]
   except:
-    print("ERROR : Problem in computing the command")
     pass
   
   if UII == "update":
